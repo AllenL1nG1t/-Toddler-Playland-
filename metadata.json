@@ -1,0 +1,5 @@
+{
+  "name": "宝宝游乐园 (Toddler Playland)",
+  "description": "A collection of fun and educational mini-games for 3-year-olds, featuring AI-generated magic pictures, balloon popping, and animal flashcards.",
+  "requestFramePermissions": ["microphone"]
+}
